@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/clg_name"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/Red"
+        android:gravity="center"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="5"
+        android:shadowColor="@color/black"/>
+</LinearLayout>
